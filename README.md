@@ -9,7 +9,7 @@ I enjoy tackling complex challenges and building systems that solve real-world p
 
 When I'm not coding, you can find me playing volleyball, football, or chess. I also enjoy reading books and continuously learning about new technologies and programming concepts.
 
-You can reach me via https://dostonusmonov.uz or dostonusmonov@example.com.
+You can reach me via https://dostonusmonov.uz or doon.usmonov@gmail.com.
 
 <!---
 doston-usmonov/doston-usmonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
