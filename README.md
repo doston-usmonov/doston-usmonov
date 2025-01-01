@@ -16,7 +16,7 @@ When I'm not coding, you can find me playing volleyball, football, or chess. I a
 ## 📫 How to reach me
 
 - Email: [doon.usmonov@gmail.com](mailto:doon.usmonov@gmail.com)
-- LinkedIn: [Doston Usmonov](https://www.linkedin.com/in/doston-usmonov/)
+- LinkedIn: [Doston Usmonov](https://www.linkedin.com/in/dostonusmonov/)
 - Telegram: [Doston Usmonov](https://t.me/DostonUsmonov)
 - Website: [dostonusmonov.uz](https://dostonusmonov.uz)
 
